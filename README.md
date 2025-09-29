@@ -14,7 +14,7 @@ Aplikasi ini dibuat untuk mengelola arsip surat masuk dan keluar di Desa Karangd
 ## 🚀 Cara Menjalankan
 1. Clone repository:
    ```bash
-   git clone https://github.com/ereenlourenza/si-arsip-surat.git
+   git clone https://github.com/ereenlourenza/si_arsipsurat.git
 2. Masuk folder project:
    cd si_arsipsurat
 3. Install dependencies:
@@ -29,13 +29,13 @@ Aplikasi ini dibuat untuk mengelola arsip surat masuk dan keluar di Desa Karangd
    - jalankan server: php artisan serve
 
 ## 📸 Screenshot
-![Halaman Arsip](storage/screenshot/arsip-surat.png)
-![Unggah Arsip](storage/screenshot/arsip-surat-unggah.png)
-![Lihat Arsip](storage/screenshot/arsip-surat-lihat.png)
-![Edit Arsip](storage/screenshot/arsip-surat-edit.png)
-![Hapus Arsip](storage/screenshot/arsip-surat-hapus.png)
-![Halaman Kategori](storage/screenshot/kategori-surat.png)
-![Tambah Kategori](storage/screenshot/kategori-surat-tambah.png)
-![Edit Kategori](storage/screenshot/kategori-surat-edit.png)
-![Hapus Kategori](storage/screenshot/kategori-surat-hapus.png)
-![Halaman About](storage/screenshot/about.png)
+![Halaman Arsip](screenshot/arsip-surat.png)
+![Unggah Arsip](screenshot/arsip-surat-unggah.png)
+![Lihat Arsip](screenshot/arsip-surat-lihat.png)
+![Edit Arsip](screenshot/arsip-surat-edit.png)
+![Hapus Arsip](screenshot/arsip-surat-hapus.png)
+![Halaman Kategori](screenshot/kategori-surat.png)
+![Tambah Kategori](screenshot/kategori-surat-tambah.png)
+![Edit Kategori](screenshot/kategori-surat-edit.png)
+![Hapus Kategori](screenshot/kategori-surat-hapus.png)
+![Halaman About](screenshot/about.png)

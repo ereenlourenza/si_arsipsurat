@@ -29,13 +29,13 @@ Aplikasi ini dibuat untuk mengelola arsip surat masuk dan keluar di Desa Karangd
    - jalankan server: php artisan serve
 
 ## 📸 Screenshot
-![Halaman Arsip](public/screenshot/arsip-surat.png)
-![Unggah Arsip](public/screenshot/arsip-surat-unggah.png)
-![Lihat Arsip](public/screenshot/arsip-surat-lihat.png)
-![Edit Arsip](public/screenshot/arsip-surat-edit.png)
-![Hapus Arsip](public/screenshot/arsip-surat-hapus.png)
-![Halaman Kategori](public/screenshot/kategori-surat.png)
-![Tambah Kategori](public/screenshot/kategori-surat-tambah.png)
-![Edit Kategori](public/screenshot/kategori-surat-edit.png)
-![Hapus Kategori](public/screenshot/kategori-surat-hapus.png)
-![Halaman About](public/screenshot/about.png)
+![Halaman Arsip](storage/screenshot/arsip-surat.png)
+![Unggah Arsip](storage/screenshot/arsip-surat-unggah.png)
+![Lihat Arsip](storage/screenshot/arsip-surat-lihat.png)
+![Edit Arsip](storage/screenshot/arsip-surat-edit.png)
+![Hapus Arsip](storage/screenshot/arsip-surat-hapus.png)
+![Halaman Kategori](storage/screenshot/kategori-surat.png)
+![Tambah Kategori](storage/screenshot/kategori-surat-tambah.png)
+![Edit Kategori](storage/screenshot/kategori-surat-edit.png)
+![Hapus Kategori](storage/screenshot/kategori-surat-hapus.png)
+![Halaman About](storage/screenshot/about.png)
